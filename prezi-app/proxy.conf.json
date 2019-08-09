@@ -1,0 +1,9 @@
+{   "/search": {
+      "target": "http://localhost:5000/",
+      "secure": false
+     },
+   "/prezi": {
+      "target": "http://localhost:5000/",
+      "secure": false
+     }
+  }
